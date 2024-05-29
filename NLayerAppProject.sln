@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NLayer.Caching", "NLayer.Ca
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLayer.Web", "NLayer.Web\NLayer.Web.csproj", "{1C205194-E6C7-4936-8AA5-8BB815733135}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{011B83A8-BFE9-4ADE-A628-E8981A919C13}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{1C205194-E6C7-4936-8AA5-8BB815733135}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C205194-E6C7-4936-8AA5-8BB815733135}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C205194-E6C7-4936-8AA5-8BB815733135}.Release|Any CPU.Build.0 = Release|Any CPU
+		{011B83A8-BFE9-4ADE-A628-E8981A919C13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{011B83A8-BFE9-4ADE-A628-E8981A919C13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{011B83A8-BFE9-4ADE-A628-E8981A919C13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{011B83A8-BFE9-4ADE-A628-E8981A919C13}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
