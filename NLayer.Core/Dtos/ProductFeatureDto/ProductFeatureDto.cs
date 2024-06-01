@@ -1,4 +1,4 @@
-﻿namespace NLayer.Core.Dtos
+﻿namespace NLayer.Core.Dtos.ProductFeatureDto
 {
     public class ProductFeatureDto
     {

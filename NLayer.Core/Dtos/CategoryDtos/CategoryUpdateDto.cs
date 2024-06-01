@@ -4,10 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace NLayer.Core.Dtos
+namespace NLayer.Core.Dtos.CategoryDtos
 {
-    public class CategoryDto : BaseDto
+    public class CategoryUpdateDto
     {
+        public int Id { get; set; }
         public string Name { get; set; }
     }
 }

@@ -1,4 +1,4 @@
-﻿namespace NLayer.Core.Dtos
+﻿namespace NLayer.Core.Dtos.ProductDtos
 {
     public class ProductUpdateDto
     {
