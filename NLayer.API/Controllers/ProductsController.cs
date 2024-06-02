@@ -1,5 +1,6 @@
 ﻿using AutoMapper;
 using Microsoft.AspNetCore.Mvc;
+using NLayer.API.Filters;
 using NLayer.Core.Dtos;
 using NLayer.Core.Dtos.ProductDtos;
 using NLayer.Core.Entities;
