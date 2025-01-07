@@ -33,6 +33,7 @@ namespace NLayer.API.Controllers
             return CreateActionResult(await _productService.GetProductsWithCategory());
         }
 
+        [ServiceFilter(typeof(NotFoundFilter<Product>))]
         [HttpGet("{id}")]
         public async Task<IActionResult> GetById(int id)
         {
